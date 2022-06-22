@@ -17,7 +17,7 @@ a7g3-a7g3 created by GitHub Classroom
 - Kler, Micaela  
 - Lescano Tornier, Hugo Gabriel  
 - Liendo, Juan Pablo  
+- Leiva, Leonardo  Emanuel
 
 ### Integrantes INACTIVOS:
-- Gutiérrez, Mariano (INACTIVO?)  
-- Leiva, Leonardo (INACTIVO?)  
+- Gutiérrez, Mariano (INACTIVO?)   
